@@ -1,0 +1,5 @@
+/home/grapekode/Projects/Farmacie/obj/x86/Debug/Farmacie.csprojAssemblyReference.cache
+/home/grapekode/Projects/Farmacie/bin/Debug/Farmacie.exe
+/home/grapekode/Projects/Farmacie/bin/Debug/Farmacie.pdb
+/home/grapekode/Projects/Farmacie/obj/x86/Debug/Farmacie.exe
+/home/grapekode/Projects/Farmacie/obj/x86/Debug/Farmacie.pdb
