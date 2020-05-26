@@ -1,0 +1,7 @@
+Nume: 		Paracetamol
+Gramaj: 		400 mg
+Valabilitate: 	12-12-2020
+Scop: 		Dureri de splina.
+Tinta: 		Adulti
+Pret: 		400.95 RON
+Interval orar:	4 ore

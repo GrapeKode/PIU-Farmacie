@@ -1,0 +1,10 @@
+C:\Users\ruben\source\repos\FarmacieForms\bin\Debug\FarmacieForms.exe.config
+C:\Users\ruben\source\repos\FarmacieForms\bin\Debug\FarmacieForms.exe
+C:\Users\ruben\source\repos\FarmacieForms\bin\Debug\FarmacieForms.pdb
+C:\Users\ruben\source\repos\FarmacieForms\obj\Debug\FarmacieForms.csprojAssemblyReference.cache
+C:\Users\ruben\source\repos\FarmacieForms\obj\Debug\FarmacieForms.Properties.Resources.resources
+C:\Users\ruben\source\repos\FarmacieForms\obj\Debug\FarmacieForms.csproj.GenerateResource.cache
+C:\Users\ruben\source\repos\FarmacieForms\obj\Debug\FarmacieForms.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\FarmacieForms\obj\Debug\FarmacieForms.exe
+C:\Users\ruben\source\repos\FarmacieForms\obj\Debug\FarmacieForms.pdb
+C:\Users\ruben\source\repos\FarmacieForms\obj\Debug\FarmacieForms.Form1.resources
